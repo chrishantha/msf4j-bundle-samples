@@ -1,2 +1,2 @@
-# msf4j-bundle-samples
-Bundle Samples for MSF4J
+# msf4j-samples
+Samples for MSF4J
